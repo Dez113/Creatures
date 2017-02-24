@@ -8,9 +8,9 @@ namespace Creatures1
 {
     class Birds : Animals
     {
-        public Birds (string name) : base (name)
+        public Birds ()
         {
-            this.name = name;
+          
         }
     }
 }

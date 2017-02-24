@@ -8,9 +8,8 @@ namespace Creatures1
 {
     class Flowers : Plants
     {
-        public Flowers(string name) : base (name)
+        public Flowers()
         {
-            this.name = name;
         }
     }
 }

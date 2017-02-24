@@ -8,9 +8,9 @@ namespace Creatures1
 {
     class Mammals : Animals// млекопитающие
     {
-        public Mammals(string name) : base (name)
+        public Mammals()
         {
-            this.name = name;
+            
         }
     }
 }

@@ -8,9 +8,8 @@ namespace Creatures1
 {
     class Grass : Plants
     {
-        public Grass(string name) : base (name)
+        public Grass()
         {
-            this.name = name;
         }
     }
 }

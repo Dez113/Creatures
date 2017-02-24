@@ -10,8 +10,10 @@ namespace Creatures1
     {
         static void Main(string[] args)
         {
-            Animals a = new Animals("Foo");
-            Birds bird = new Birds("Birdy");
+            //Animals a = new Animals();
+            //a.name = "Foo";
+            Birds bird = new Birds();
+            bird.name = "F111";
             Console.WriteLine(bird.name + "\t" + bird.GetType());
             Console.ReadKey();
         }
