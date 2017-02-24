@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Creatures1
+{
+    class FlyBirds : Birds
+    {
+        public FlyBirds(string name) : base (name)
+        {
+            this.name = name;
+        }
+    }
+}

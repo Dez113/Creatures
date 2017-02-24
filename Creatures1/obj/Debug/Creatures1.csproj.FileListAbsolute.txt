@@ -1,0 +1,6 @@
+D:\VS\Projects\Creatures1\Creatures1\bin\Debug\Creatures1.exe.config
+D:\VS\Projects\Creatures1\Creatures1\bin\Debug\Creatures1.exe
+D:\VS\Projects\Creatures1\Creatures1\bin\Debug\Creatures1.pdb
+D:\VS\Projects\Creatures1\Creatures1\obj\Debug\Creatures1.csprojResolveAssemblyReference.cache
+D:\VS\Projects\Creatures1\Creatures1\obj\Debug\Creatures1.exe
+D:\VS\Projects\Creatures1\Creatures1\obj\Debug\Creatures1.pdb
