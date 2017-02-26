@@ -20,8 +20,5 @@ namespace Creatures1
             //    throw new NotImplementedException();
             //}
         }
-        //public Mushrooms()
-        //{
-        //}
     }
 }

@@ -8,8 +8,5 @@ namespace Creatures1
 {
     class NotFlyingBirds : Birds
     {
-        public NotFlyingBirds ()
-        {
-        }
     }
 }

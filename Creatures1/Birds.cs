@@ -8,9 +8,5 @@ namespace Creatures1
 {
     class Birds : Animals
     {
-        public Birds ()
-        {
-          
-        }
     }
 }

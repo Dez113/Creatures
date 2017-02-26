@@ -19,6 +19,10 @@ namespace Creatures1
 
             Mushrooms m1 = new Mushrooms();
             m1.name = "M1 misf";
+
+            Mammals ma1 = new Mammals();
+            ma1.name = "kdjskdjk";
+
             Console.WriteLine(m1.name);
             Console.ReadKey();
             //Console.WriteLine(bird.name + "\t" + bird.GetType());

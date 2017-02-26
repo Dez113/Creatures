@@ -8,8 +8,5 @@ namespace Creatures1
 {
     class Trees : Plants
     {
-        public Trees()
-        {
-        }
     }
 }
