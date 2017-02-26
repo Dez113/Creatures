@@ -8,8 +8,20 @@ namespace Creatures1
 {
     class Mushrooms : Creatures
     {
-        public Mushrooms()
+        public override string name
         {
+            get;
+            //{
+            //    throw new NotImplementedException();
+            //}
+
+            set;
+            //{
+            //    throw new NotImplementedException();
+            //}
         }
+        //public Mushrooms()
+        //{
+        //}
     }
 }

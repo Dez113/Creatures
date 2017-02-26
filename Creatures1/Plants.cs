@@ -8,8 +8,10 @@ namespace Creatures1
 {
     class Plants : Creatures
     {
-        public Plants()
+        public override string name
         {
+            get; set;
         }
+        
     }
 }

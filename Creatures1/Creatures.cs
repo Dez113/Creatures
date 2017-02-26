@@ -8,7 +8,7 @@ namespace Creatures1
 {
     abstract class Creatures
     {
-        public string name { get; set; }
+        abstract public string name { get; set; }
         //protected string type { get; set; }
     }
 }
